@@ -6,7 +6,7 @@ Welcome to the repository for https://iproute.host which serves as a archive. Th
 
 - `index.html` - The main landing page of the website.
 - `resume.html` - A professional resume outlining my career and achievements.
-- `art.html` - A portfolio of artwork, capturing my artistic journey.
+- `art.html` - A portfolio of artwork, archiving my visual alchemy
 
 ## Purpose of Archival
 
