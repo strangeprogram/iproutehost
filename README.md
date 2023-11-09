@@ -1,6 +1,6 @@
 # Website Archive
 
-Welcome to the repository for https://iproute.host which serves as a archive. This repository contains the core HTML files that structure the website, providing insights into my professional development and artistic endeavors over the years.
+Welcome to the repository for https://iproute.host which serves as a archive. This repository contains the core HTML files and CSS that structure the website, providing insights into my professional development and artistic endeavors over the years.
 
 ## Contents
 

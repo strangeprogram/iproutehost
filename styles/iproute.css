@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'blockzone';
+	src: url('../fonts/blockzone-webfont.woff2') format('woff2'), url('../fonts/blockzone-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+html, body { background: #000; height: 100% }
+body { background: #000; color: #aaa; font-family: 'blockzone'; font-size: 16px; line-height: 16px; margin: 0 auto; padding: 0; width: 960px }
+
+a:link,a:visited,a:focus { color: #ff0 }
+h1,h2 { background: #FFF; color: #000; font-size: 16px; font-weight: normal; margin: 0 auto; padding: 0 0 0 32px }
+img { border: 0 }
+p { text-align: justify }
+
+/*****************************************************************************/
+
+#header { background: url(../assets/acid.png) top left no-repeat; padding: 0; margin: 16px 32px; height: 288px }
+
+#menu { background: #000; margin: 0; padding: 0; padding-left: 24px; line-height: 48px; height: 48px }
+#menu li { display: block; float: left }
+#menu li a { display: block; text-decoration: none; color: #aaa; padding: 0px 16px }
+#menu li a#selected { background: #fff; color: #000 }
+#menu li a:hover { color: #fff }
+
+#copyright { float:left; padding-left: 32px; }
+#validator{ float:right; padding-right: 32px; }
+#copyright a, #validator a { color: #fff }
+
+/*****************************************************************************/
+
+.news { padding: 0 32px }
+.news li { list-style: none }
+.news li:before { content: '- ' }
+
+.screenshots { margin: 16px auto; text-align: center }
